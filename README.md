@@ -30,9 +30,11 @@ nodemon index.js
 - An activity that matches the criteria will be displayed.
 
 ## Dependencies
-- [Express.js](https://github.com/expressjs/express): Minimal and flexible Node.js web application framework.
-- [Body-parser](https://github.com/expressjs/body-parser): Parse incoming request bodies in a middleware before your handlers.
-- [Axios](https://github.com/axios/axios): Promise-based HTTP client for the browser and Node.js.
+
+- [Express.js](https://www.npmjs.com/package/express): Minimal and flexible Node.js web application framework.
+- [Body-parser](https://www.npmjs.com/package/body-parser): Parse incoming request bodies in a middleware before your handlers.
+- [Axios](https://www.npmjs.com/package/axios): Promise-based HTTP client for the browser and Node.js.
+
 
 
 ## Contributing
